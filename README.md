@@ -19,9 +19,9 @@ If you don't have a license. You can request a [temporary license](https://purch
 
 ## Screenshots
 * Sample PDF displayed using ASP.NET MVC application
-![](ASP.NET MVC Document Viewer/Viewer_App/Content/asp.net mvc.PNG)
+![](Screenshots/mvc.PNG)
 * Sample PDF displayed using ASP.NET Core API application
-![](ASP.NET MVC Document Viewer/Viewer_App/Content/angular.PNG)
+![](Screenshots/angular.PNG)
 
 # Interested in GroupDocs free consulting project?
 [If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://github.com/groupdocs-free-consulting/)
