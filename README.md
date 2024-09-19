@@ -24,15 +24,15 @@ If you don't have a license. You can request a [temporary license](https://purch
 ![](Screenshots/angular.PNG)
 
 # Interested in GroupDocs free consulting project?
-[If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://github.com/groupdocs-free-consulting/)
+[If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://forum.groupdocs.com/c/free-consulting/37)
 
 If you have any questions about GroupDocs APIs, please feel free to post your query in [GroupDocs Forum](https://forum.groupdocs.com/).
 
 Also, you can keep in touch with the latest developments in file format APIs offered by GroupDocs at our [Blog](https://blog.groupdocs.com/).
 
 # This free consulting project is based on the following issues:
-* [How to integrate Groupdocs viewer in .Net core and View the document in Angular 7](https://github.com/groupdocs-free-consulting/projects/issues/8)
-* [I want to be able to display the document in the browser without having to download it](https://github.com/groupdocs-free-consulting/projects/issues/2)
+* How to integrate Groupdocs viewer in .Net core and View the document in Angular 7: github.com/groupdocs-free-consulting/projects/issues/8
+* I want to be able to display the document in the browser without having to download it: github.com/groupdocs-free-consulting/projects/issues/2
 
 
 
